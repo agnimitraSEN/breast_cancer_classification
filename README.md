@@ -6,6 +6,10 @@ Predicting if the cancer diagnosis is benign or malignant based on several obser
 
 **Notes:**
 
+- SVM : 97% accuracy
+- ANN : 97% accuracy
+> 2 hidden layer [16,12] + Dropout [0.1] + Relu
+
 **Data Set Characteristics:**
 
 - Number of Instances: 569
